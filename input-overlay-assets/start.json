@@ -1,0 +1,27 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 28,
+    "overlay_height": 28,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "keyboard button0",
+            "z_level": 0,
+            "mapping": [
+                0,
+                0,
+                28,
+                28
+            ],
+            "code": 57
+        }
+    ]
+}

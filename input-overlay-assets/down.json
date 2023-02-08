@@ -4,8 +4,8 @@
     "space_h": 0,
     "space_v": 0,
     "flags": 0,
-    "overlay_width": 50,
-    "overlay_height": 50,
+    "overlay_width": 112,
+    "overlay_height": 115,
     "elements": [
         {
             "type": 1,
@@ -18,10 +18,10 @@
             "mapping": [
                 0,
                 0,
-                50,
-                50
+                112,
+                115
             ],
-            "code": 30
+            "code": 61008
         }
     ]
 }
